@@ -1,4 +1,4 @@
-## Scenarioo Viewer Demo
+## Scenarioo Viewer
 
 Jump through your tests like a Kangaroo ...<br>[demo.scenarioo.org](http://demo.scenarioo.org)
 
