@@ -2,8 +2,8 @@
 
 ### <span class="noUppercase">with ScenariooJS</span>
 
-<img class="noborder" src="images/scenarioo.png">
+![Scenarioo Open Source Community](images/scenarioo.png)
 
 Dominic Langenegger, Michael Werner, Rolf Bruderer
 
-[https://github.com/scenarioo/scenarioo-js](https://github.com/scenarioo/scenarioo-js)
+[github.com/scenarioo/scenarioo-js](https://github.com/scenarioo/scenarioo-js)
