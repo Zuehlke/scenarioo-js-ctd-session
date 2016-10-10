@@ -2,7 +2,7 @@
 
 ### <span class="noUppercase">with ScenariooJS</span>
 
-<img class="noboarder" src="images/scenarioo.png"/>
+<img class="noborder" src="images/scenarioo.png">
 
 Dominic Langenegger, Michael Werner, Rolf Bruderer
 
