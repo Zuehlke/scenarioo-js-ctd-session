@@ -64,8 +64,9 @@ If enough time:
 
  ## Presentation Tooling
 
+ For important commands see scripts in `package.json`.
+
  ### Prez with RevealJS
 
  See https://github.com/byteclubfr/prez
-
 
