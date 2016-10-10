@@ -4,7 +4,7 @@ Material and Outcomes of the Client Tech Day Session 2016 in Zurich (Schlieren).
 
 We make this currently as a private repo but might think about migrating it later to an open repo.
 
-Date of Session: 18.11.2016 ...
+Date of Session: 18.11.2016 13:30-15:00
 
 Authors: Dominic Langenegger (@dola), Michael Werner (@mi-we) and Rolf Bruderer (@bruderol)
 
