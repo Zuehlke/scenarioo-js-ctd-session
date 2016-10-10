@@ -1,9 +1,10 @@
 # Agenda
 
-- Application Documentation and UI Testing
+- E2E/UI-Testing and Documentation of Applications
 - Structuring and Designing UI Tests
-- Swisscom Enterprise Cloud Example
-- Scenarioo Outlook
+- Using Protractor and ScenariooJS
+- Real Examples from Swisscom Enterprise Cloud
+- News from the Scenarioo RUA
 
 <div class="horizontal-3">
 ![](images/dola_sw.jpg)
