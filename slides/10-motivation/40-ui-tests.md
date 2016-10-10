@@ -14,5 +14,5 @@
             </li>
         </ul>
     </div>
-        ![](images/application-architecture.png)
+    <img src="images/application-architecture.png">
 </div>
