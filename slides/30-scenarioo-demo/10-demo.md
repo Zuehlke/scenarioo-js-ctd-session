@@ -1,2 +1,2 @@
 # Demo
-![](images/scenarioo-logo.png)
+<img class="noborder" src="images/scenarioo.png">
