@@ -1,3 +1,3 @@
 ## The solution? Page objects!
 
-<img class="noboarder" src="images/page-objects.png" />
+<img class="noborder" src="images/page-objects.png" />
