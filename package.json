@@ -2,7 +2,6 @@
   "name": "scenarioo-js-ctd-session",
   "version": "0.1.0",
   "description": "Presentation about Scenarioo JS",
-  "main": "index.js",
   "dependencies": {},
   "devDependencies": {
     "prez": "^4.7.0"
