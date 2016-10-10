@@ -12,3 +12,16 @@ img.noboarder {
 .noUppercase {
 	text-transform: none;
 }
+
+div.horizontal-3 img, div.horizontal-3 div {
+	float: left;
+	width: 28%;
+	margin: 2%;
+}
+
+div.horizontal-2 img, div.horizontal-2 div {
+	float: left;
+	width: 44%;
+	margin: 3%;
+}
+
