@@ -8,7 +8,7 @@ Date of Session: 18.11.2016 13:30-15:00
 
 Authors: Dominic Langenegger (@dola), Michael Werner (@mi-we) and Rolf Bruderer (@bruderol)
 
-Major Goal & Content: Using Scenarioo JS, Protractor and Jasmine 2 to efficiently test and document web applications form a user interface perspective and how to structure and design those tests.
+Major Goal & Content: Using Scenarioo JS, Protractor and Jasmine 2 to efficiently test and document web applications from a user interface perspective and how to structure and design those tests.
 
 ## Session Abstract (as currently announced in the CTD program)
 
