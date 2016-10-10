@@ -1,0 +1,24 @@
+{
+  "name": "scenarioo-js-ctd-session",
+  "version": "0.1.0",
+  "description": "Presentation about Scenarioo JS",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "prez": "^4.7.0"
+  },
+  "scripts": {
+    "prez-serve": "prez --serve --theme=white",
+    "prez-print": "prez --print",
+    "prez-serve-watch": "prez --serve --watch --theme=white"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zuehlke/scenarioo-js-ctd-session.git"
+  },
+  "author": "Michael Werner, Dominic Langenegger, Rolf Bruderer",
+  "bugs": {
+    "url": "https://github.com/Zuehlke/scenarioo-js-ctd-session/issues"
+  },
+  "homepage": "https://github.com/Zuehlke/scenarioo-js-ctd-session"
+}

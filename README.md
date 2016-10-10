@@ -61,3 +61,11 @@ Get to know more in advance under http://scenarioo.org
 
 If enough time:
  - Exercise: What are UseCases, Scenarios of your application?
+
+ ## Presentation Tooling
+
+ ### Prez with RevealJS
+
+ See https://github.com/byteclubfr/prez
+
+
