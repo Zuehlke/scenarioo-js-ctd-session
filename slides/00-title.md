@@ -1,4 +1,4 @@
-## Effective UI Testing
+## Effective UI/E2E Testing
 
 ### <span class="noUppercase">with ScenariooJS</span>
 
