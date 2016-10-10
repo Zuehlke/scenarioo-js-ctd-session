@@ -1,4 +1,4 @@
-## Famous Words
+## Documentation - Famous Words
 
 > Working Software over comprehensive Documentation
 
@@ -8,6 +8,6 @@
 
 > __Tests are Documentation__
 
-<div class="hint">
-Yes ... but ... you have to make it visible! 
+<div class="hint fragment">
+Yes ... but ... you have to make it visible!
 </div>
