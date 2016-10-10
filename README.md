@@ -12,16 +12,13 @@ Major Goal & Content: Using Scenarioo JS, Protractor and Jasmine 2 to efficientl
 
 ## Session Abstract (as currently announced in the CTD program)
 
-The Open Source RUA Scenarioo provides a new ScenariooJS library, that integrates perfectly with 
-Jasmine 2 and Protractor to efficiently test and simultaneously document your Web-Applications 
-from a user interface perspective. The session will focus on test design, since this is the most 
-important part of successful and effective UI/E2E-Testing. We will present examples from the 
-Swisscom Cloud Portal poject and how Rolf structured their tests there to get a well-organized 
-test suite and system documentation from a user's point of view. We will also present some useful 
+ScenariooJS, Protractor and Jasmine 2 are a perfect team to get your web applications tested and simultaneously documented from a user interface perspective for all your stakeholders. The session will primarily focus on test design, since this is the most 
+important part of successful and effective UI/E2E-Testing, and is even important if you are using any other testing technologies (like pure Selenium). We will present examples from the Swisscom Cloud Portal poject and how Rolf structured their tests there to get a well-organized test suite and system documentation from a user's point of view. Furthermore we will also present some useful 
 protractor tips and tricks and best practices for writing stable and maintainable UI/E2E-Tests 
 more efficiently. The session will be practically oriented with real examples from real projects 
-and will also demonstrate some of the newest Scenarioo features. Get to know more in advance 
-under http://scenarioo.org
+and will also demonstrate some of the newest Scenarioo features, especially of the newest ScenariooJS library version. 
+Get to know more in advance under http://scenarioo.org
+
 
 ## Schedule
 
