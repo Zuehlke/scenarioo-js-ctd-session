@@ -53,9 +53,11 @@ Get to know more in advance under http://scenarioo.org
    - Automatic screenshots on expectation missed, error, at end of test (sucessfull/error)
    - Tips and tricks: Fixed screen size, turn off animations, ...
  - Scenarioo in other environments (Java, C#) (2', dola)
- - Outlook Scenarioo  (2', dola)
-    - Upcoming Features (Search, Diff Viewer)
-	- 2.0 (JSON Format)
+ - Outlook Scenarioo (2', dola)
+    - Coming soon - Release 2.3
+       - Full Text Search
+       - Diff Viewer
+	- Work in progress: JSON Format 3.0
 
 If enough time:
  - Exercise: What are UseCases, Scenarios of your application?
