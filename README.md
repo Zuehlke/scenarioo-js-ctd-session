@@ -19,7 +19,7 @@ more efficiently. The session will be practically oriented with real examples fr
 and will also demonstrate some of the newest features of the Zühlke Open Source RUA Scenarioo. 
 Get to know more in advance under http://scenarioo.org
 
-## Schedule
+## Plan / Topics / Timeline
 
  - Introduction (1', dola)
      - Who we are
