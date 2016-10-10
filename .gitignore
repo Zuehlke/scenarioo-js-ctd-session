@@ -1,6 +1,9 @@
 # IDE
 .idea
 
+# Build result
+build
+
 # Various
 *.orig
 npm_dependencies_report.md
