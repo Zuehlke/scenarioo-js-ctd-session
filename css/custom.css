@@ -3,3 +3,8 @@
 #chapter-foo p {
 	text-transform: uppercase;
 }
+
+img.noboarder {
+	border: none !important;
+	box-shadow: none !important;
+}
