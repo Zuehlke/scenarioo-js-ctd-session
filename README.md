@@ -54,6 +54,7 @@ under http://scenarioo.org
    - But my Build Server has no GUI => Headless Browser (e.g. PhantomJS)
    - When should steps be created? (Strategies, interception, in page object)
    - Automatic screenshots on expectation missed, error, at end of test (sucessfull/error)
+   - Tips and tricks (Fixed screen size, turn off animations)
  - Scenarioo in other environments (Java, C#) (2', dola)
  - Outlook Scenarioo  (2', dola)
     - Upcoming Features (Search, Diff Viewer)
