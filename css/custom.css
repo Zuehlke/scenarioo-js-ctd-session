@@ -8,3 +8,7 @@ img.noboarder {
 	border: none !important;
 	box-shadow: none !important;
 }
+
+.noUppercase {
+	text-transform: none;
+}

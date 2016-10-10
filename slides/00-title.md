@@ -1,3 +1,9 @@
-## Effective UI Testing with ScenariooJS
+## Effective UI Testing
+
+### <span class="noUppercase">with ScenariooJS</span>
 
 <img class="noboarder" src="images/scenarioo.png"/>
+
+Dominic Langenegger, Michael Werner, Rolf Bruderer
+
+[https://github.com/scenarioo/scenarioo-js](https://github.com/scenarioo/scenarioo-js)
