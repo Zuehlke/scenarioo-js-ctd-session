@@ -1,3 +1,3 @@
-# Test Pyramid
+## Test Pyramid
 
 ![](images/test-pyramid.png)

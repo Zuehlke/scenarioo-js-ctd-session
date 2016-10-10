@@ -1,4 +1,4 @@
-# End-to-End Tests
+## End-to-End Tests
 
 <div class="horizontal-2">
 <div>
