@@ -24,6 +24,13 @@ img.border {
 	text-shadow: 0 0 3px rgba(0, 0, 0, 0.4);
 }
 
+.darkBox {
+	background: rgba(0,0,0,0.2);
+}
+
+.lightBox {
+	background: rgba(255,255,255,0.4);
+}
 
 div.horizontal-2, div.horizontal-3 {
 	overflow: hidden;

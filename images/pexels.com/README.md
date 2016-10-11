@@ -1,4 +1,4 @@
-# Pictures from unsplash.com
+# Pictures from pexels.com
 
 These pictures in this directory here are taken from:
 https://www.pexels.com

@@ -1,3 +1,7 @@
+$background-image:images/pexels.com/source-code-90807.jpeg$
+$background:black$
+$class:darkBox$
+
 ## Real Hackers
 
 <ul>
@@ -9,4 +13,3 @@
 <li class="fragment">Let's release it!</li>
 </ul>
 
-(TODO Hintergrund: Hacker)
