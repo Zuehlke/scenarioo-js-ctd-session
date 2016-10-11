@@ -1,4 +1,4 @@
-$background-video:https://pbs.twimg.com/tweet_video/CYsaEZiW8AIMesY.mp4$
+$background-video:images/misc/no-integration-tests.mp4$
 $background:black$
 $background-video-loop:true$
 
