@@ -62,13 +62,21 @@ Get to know more in advance under http://scenarioo.org
 If enough time:
  - Exercise: What are UseCases, Scenarios of your application?
 
- ## Presentation Tooling
+## Open Points: Points to Add / Questions to Answer
 
- For important commands see scripts in `package.json`.
+* Using Firefox or Chrome for Testing? Advantages and Disadvantages
+* Why not using Internet Explorer for Testing?
+    * only if you can not avoid!
+    * Mention some Arguments for not using it (even if your app has to support IE)
 
- ### Prez with RevealJS
 
- See https://github.com/byteclubfr/prez
+## Presentation Tooling
+
+For important commands see scripts in `package.json`.
+
+### Prez with RevealJS
+
+See https://github.com/byteclubfr/prez
 
 ## References
 
