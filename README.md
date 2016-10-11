@@ -70,8 +70,15 @@ If enough time:
 
  See https://github.com/byteclubfr/prez
 
- ### Sources for Pictures
+## References
 
- * https://www.pexels.co
- * http://blog.teachable.com/post/120193329843/the-13-ultimate-free-stock-photo-sites
+### Pictures in Presentations
 
+In general we prefer to use pictures under Creative Commons Zero Licence.
+
+Sources: see according README files in images folders.
+
+Some interesting sources for pictures:
+
+* https://www.pexels.com
+* http://blog.teachable.com/post/120193329843/the-13-ultimate-free-stock-photo-sites
