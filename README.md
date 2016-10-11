@@ -81,4 +81,5 @@ Sources: see according README files in images folders.
 Some interesting sources for pictures:
 
 * https://www.pexels.com
+* https://pixabay.com
 * http://blog.teachable.com/post/120193329843/the-13-ultimate-free-stock-photo-sites
