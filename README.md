@@ -70,3 +70,8 @@ If enough time:
 
  See https://github.com/byteclubfr/prez
 
+ ### Sources for Pictures
+
+ * https://www.pexels.co
+ * http://blog.teachable.com/post/120193329843/the-13-ultimate-free-stock-photo-sites
+
