@@ -1,10 +1,9 @@
-# Agenda
+## What is it about?
 
 - E2E/UI-Testing and Documentation of Applications
-- Structuring and Designing UI Tests
+- Structuring and Designing Test Suites
 - Using Protractor and ScenariooJS
-- Real Examples from Swisscom Enterprise Cloud
-- News from the Scenarioo RUA
+- Practical Examples from real Projects
 
 <div class="horizontal-3">
 ![](images/dola_sw.jpg)
