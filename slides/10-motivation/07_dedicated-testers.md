@@ -1,4 +1,4 @@
-# What are Dedicated Testers doing?
+## What do Dedicated Testers?
 
 * Do manual testing
 * Review automated tests
