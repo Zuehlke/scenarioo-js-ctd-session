@@ -3,9 +3,12 @@
 ```js
 describe('Example Use Case', function exampleUseCase() {
   it('Example Scenario', function exampleScenario() {
-    taskOverviewPage.open()
-        .selectFirstTodoItem()
-        .verifyFirstTodoItemIsSelected();
+    registrationPage.open()
+        .enterFirstname('Stephen')
+        .enterLastname('Strange')
+        .register();
+
+    confirmationPage.expectRegistrationSuccessful();
   });
 });
 ```
