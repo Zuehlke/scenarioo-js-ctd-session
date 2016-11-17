@@ -7,7 +7,7 @@ $background-size:cover$
 
 ### <span class="noUppercase">with ScenariooJS</span>
 
-<img src="images/scenarioo_bright.png" class="plain">
+<img src="images/scenarioo_bright.png">
 
 Dominic Langenegger, Michael Werner, Rolf Bruderer
 
