@@ -9,3 +9,8 @@
 
 note:
 michael
+
+rolf: 
+- enough time to run a short demo test?
+- maybe show how a test fails (something goes wrong in a page object?)?
+- otherwise continue and dig into code later
