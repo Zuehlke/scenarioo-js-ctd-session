@@ -8,7 +8,7 @@
   },
   "scripts": {
     "print": "prez --print",
-    "serve": "prez --serve --watch --theme=white"
+    "serve": "prez --serve --watch --theme=white --highlight-theme=solarized-light"
   },
   "repository": {
     "type": "git",

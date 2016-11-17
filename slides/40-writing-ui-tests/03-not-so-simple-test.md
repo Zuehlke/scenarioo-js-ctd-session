@@ -11,7 +11,7 @@ describe('Example Use Case', function() {
     element(lastname).sendKeys('Strange');
     element(by.id('#submit')).click();
 
-    expect(element(by.id(#message))).getText()
+    expect(element(by.id('#message'))).getText()
       .toEqual('Registration successful!');
   });
 });

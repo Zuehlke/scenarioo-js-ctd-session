@@ -14,3 +14,7 @@ So far so good, let's look at a bigger example.
 
 note:
 michael
+
+- Exmplain the structure of a Jasmine test (describe, it)
+- Explain expect (promises), like assertions
+- Explain protractor
