@@ -5,4 +5,4 @@ npm install --save-dev scenarioo-js
 ```
 
 note:
-rolf
+michael

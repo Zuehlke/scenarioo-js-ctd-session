@@ -16,4 +16,4 @@ onPrepare: function onPrepare() {
 https://github.com/scenarioo/scenarioo-js#configuration
 
 note:
-rolf
+michael
