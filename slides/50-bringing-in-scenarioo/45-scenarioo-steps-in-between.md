@@ -8,12 +8,12 @@ var RegistrationPage = {
 
   this.open = function() {
     browser.get('/registration.html');
-    scenarioo.saveStep('User opens registration page');
+    scenarioo.saveStep('Registration page opened');
   };
   this.register = function(firstname, lastname) {
     firstnameTextbox.set(firstname);
     lastnameTextbox.set(lastname);
-    scenarioo.saveStep('User registers himself');
+    scenarioo.saveStep('Registration data entered');
     registerButton.click();
   };
 }
@@ -23,3 +23,5 @@ Define steps inside of page objects
 
 note:
 michael
+
+- Mention that it would also be possible to hook saveStep to protracator functions

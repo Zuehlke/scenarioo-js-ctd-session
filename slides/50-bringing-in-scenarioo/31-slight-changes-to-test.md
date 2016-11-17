@@ -14,7 +14,5 @@ describe('Example Use Case', function() {
 });
 ```
 
-https://github.com/scenarioo/scenarioo-js#configuration
-
 note:
 michael
