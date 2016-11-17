@@ -9,7 +9,7 @@ $class:darkBox$
 * How to structure your test suites?
 * How to choose good test scenarios?
 * Tests as Functional System Documentation
-* Tests as `Specification by Example`
+* Tests as _Specification by Example_
 
 note:
 rolf
