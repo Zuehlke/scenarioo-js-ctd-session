@@ -1,10 +1,16 @@
-## Scenarioo in other Environments
+## Other Environments
 
-Java, C#
+<img src="images/java-logo.png" width="200px">
+<img src="images/NET-logo.png" wdith="250px">
 
-ScenariooJS has better integration and integrates well with Protractor:
+ScenariooJS integrates better using Protractor:
+ - Own DSL
  - Error handling
- - own DSL
+
+https://github.com/scenarioo/scenarioo-java
+https://github.com/scenarioo/scenarioo-cs
 
 note:
 dola
+
+however no support for additional detail data in ScenariooJS
