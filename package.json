@@ -7,9 +7,8 @@
     "prez": "^4.7.0"
   },
   "scripts": {
-    "prez-serve": "prez --serve --theme=white",
-    "prez-print": "prez --print",
-    "prez-serve-watch": "prez --serve --watch --theme=white"
+    "print": "prez --print",
+    "serve": "prez --serve --watch --theme=white"
   },
   "repository": {
     "type": "git",
