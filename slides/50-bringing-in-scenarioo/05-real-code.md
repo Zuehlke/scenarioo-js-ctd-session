@@ -2,3 +2,5 @@
 
 note:
 rolf
+
+TODO: slide with practical hints / experiences / pitfalls
