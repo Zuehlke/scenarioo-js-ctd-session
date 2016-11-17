@@ -11,3 +11,6 @@
 <div class="hint fragment">
 Yes ... but ... you have to make it visible!
 </div>
+
+note:
+dola

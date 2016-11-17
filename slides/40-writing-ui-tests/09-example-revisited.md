@@ -14,3 +14,6 @@ describe('Example Use Case', function exampleUseCase() {
 ```
 
 The intention of the code becomes visible.
+
+note:
+michael

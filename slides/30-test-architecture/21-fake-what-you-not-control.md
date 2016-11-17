@@ -1,4 +1,4 @@
-## Fake what you do not control!
+## Fake what you don't control!
 
 <div class="horizontal-2">
 <div>
@@ -12,3 +12,8 @@
     <img src="images/test-setup.png">
 </div>
 </div>
+
+note:
+rolf
+
+michael comment from Swisscom NEO

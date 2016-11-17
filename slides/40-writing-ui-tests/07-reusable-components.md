@@ -13,3 +13,5 @@ var RegistrationPage = {
 }
 ```
 
+note:
+michael

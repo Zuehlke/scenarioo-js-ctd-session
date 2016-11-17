@@ -79,3 +79,7 @@ li.checkmark:before {
 	width: 1em;
 	content: "✔";
 }
+
+code {
+	background-color: #777;
+}

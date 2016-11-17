@@ -6,3 +6,5 @@
     * Write Generators to define maintainable test data
     * NOT use snapshots from testing systems
     
+note:
+rolf

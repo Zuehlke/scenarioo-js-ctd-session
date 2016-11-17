@@ -8,3 +8,5 @@
 * NOT test Components in isolation!
 
 
+note:
+rolf

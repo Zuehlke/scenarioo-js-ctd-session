@@ -4,3 +4,6 @@
 * How to choose good test scenarios?
 * Tests as Functional System Documentation
 * Tests as `Specification by Example`
+
+note:
+rolf

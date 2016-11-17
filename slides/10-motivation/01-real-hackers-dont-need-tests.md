@@ -12,3 +12,7 @@ $class:darkBox$
 <li class="fragment">It works! Done!</li>
 <li class="fragment">Let's release it!</li>
 </ul>
+
+note:
+
+rolf
