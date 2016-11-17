@@ -4,7 +4,7 @@
 <div>
     <ul>
         <li>DB: well defined test data set<br/></li>
-        <li>Backend: Stub / Fake / Mock / Test Fixture</li>                
+        <li>Other Systems: Stub / Fake / Mock / Test Fixture</li>                
         <li>Define it in your source repository in a well maintainable way</li>                
     </ul>
 </div>
