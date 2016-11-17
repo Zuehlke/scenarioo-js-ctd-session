@@ -3,3 +3,7 @@
 ![](../../images/test-setup.png)
 Subsystem not under your control: fake it!
 
+
+note:
+rolf
+

@@ -12,3 +12,6 @@
     <img src="images/application-architecture.png">
 </div>
 </div>
+
+note:
+rolf

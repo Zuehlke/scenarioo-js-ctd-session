@@ -12,3 +12,6 @@ $background-size:cover$
 Dominic Langenegger, Michael Werner, Rolf Bruderer
 
 [github.com/scenarioo/scenarioo-js](https://github.com/scenarioo/scenarioo-js)
+
+note:
+rolf

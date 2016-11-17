@@ -15,3 +15,7 @@ Imagine 10 Coders doing this in parallel ...
 <li class="fragment">In Untyped Javascript Code</li>
 <li class="fragment">Without Automated Tests</li>
 </ul>
+
+note:
+
+rolf

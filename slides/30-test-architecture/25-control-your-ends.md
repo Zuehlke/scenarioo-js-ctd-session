@@ -9,4 +9,7 @@ Document Expectations about other Systems
 }
 ```
 
-Can be seen as a kind of **Specification by Example** what our system can consume
+A **Specification by Example** of what our system can consume
+
+note:
+rolf

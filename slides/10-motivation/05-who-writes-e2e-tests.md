@@ -12,3 +12,8 @@ $class:darkBox$
     * Take care of unnecessary Silos!
 
 * **Tests are a Tool for the Developers!**
+
+note:
+rolf
+
+michael adds story from project

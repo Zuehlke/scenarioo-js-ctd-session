@@ -11,3 +11,6 @@ describe('Example Use Case', function exampleUseCase() {
 ```
 
 So far so good, let's look at a bigger example.
+
+note:
+michael
