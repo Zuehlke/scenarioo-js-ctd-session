@@ -3,9 +3,6 @@
 <div class="horizontal-2">
     <div>
         <ul>
-            <li><p>Avoid E2E-Testing Creep</p></li>
-            <li><p>1 hand full of scenarios per use case</p></li>
-            <li><p>focus on high-level business functionality</p></li>
             <li><p>DON'T cover all cases of business logic</p>
                 <ul>
                 <li><p>Extract that logic into a Component / Service / Class / Function</p></li>
