@@ -3,7 +3,7 @@
 <div class="horizontal-2">
     <div>
         <ul>
-            <li><p>DON'T cover all cases of business logic</p>
+            <li><p>DON'T test all details of complex logic in E2E tests</p>
                 <ul>
                 <li><p>Extract that logic into a Component / Service / Class / Function</p></li>
                 <li><p>Extensively test that Logic in **Unit Tests**</p></li>

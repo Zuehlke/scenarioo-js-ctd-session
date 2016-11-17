@@ -1,12 +1,20 @@
-## Usecases and Scenarios
+$background-image:images/puml/use_case_scenarios.png$
+$background-size:20%$
+$background-position: right$
+$background-repeat:no-repeat$
 
-Think about your application in usecases and scenarios!
+## Use Cases and Scenarios
 
-TODO ...
+Structure Scenarios by Use Case
 
-Small exercise in groups to find out what typical use cases in your project are
-
-Pick out one person to quickly present his/her use cases or interesting discussion points
+* Use Case
+  * A goal the user wants to achieve
+  * Usually an action = verb and subject(s)
+  * Not too fine granular! 
+    * Boss Test
+    * Coffee Break Test
+    
+* Scenario = Test Case = One flow through the use case    
 
 note:
 rolf
