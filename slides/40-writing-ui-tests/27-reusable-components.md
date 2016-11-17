@@ -1,15 +1,17 @@
 ## Reusable components
 
 ```js
-var RegistrationPage = {
-  var fistname = new TextBox(element(by.id('#firstname')));
-  var lastname = new TextBox(element(by.id('#lastname')));
-  var registerButton = element(by.id(#submit));
+var TextBox = function(element) {
+  this.element = element;
 
-  this.setFirstname = function(value) {
-    firstname.setText(value);
+  this.set = function(value) {
+    element.clear();
+    element.sendKeys(value);
   }
-  ...
+
+  this.clear = function(value) {
+    element.clear();
+  }
 }
 ```
 

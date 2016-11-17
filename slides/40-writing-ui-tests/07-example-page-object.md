@@ -1,8 +1,21 @@
-## Example PageObject
+## Example page object
 
+```js
+var RegistrationPage = {
+  var firstnameTextbox = element(by.id('#firstname'));
+  var lastnameTextbox = element(by.id('#lastname'));
+  var registerButton = element(by.id('#submit'));
 
-* PageObject wioithout PageComponents
-* To demonstrate the interface of PageObjects (not UZI driven, but functional driven)
+  this.register = function(firstname, lastname) {
+    firstnameTextbox.clear();
+    firstnameTextbox.setText(firstname);
+    lastnameTextbox.clear();
+    lastnameTextbox.setText(lastname);
 
-$note:
+    registerButton.click();
+  };
+}
+```
+
+note:
 michael

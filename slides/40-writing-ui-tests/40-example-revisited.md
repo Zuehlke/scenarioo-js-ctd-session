@@ -1,12 +1,10 @@
 ## Let's revisit our example
 
 ```js
-describe('Example Use Case', function exampleUseCase() {
-  it('Example Scenario', function exampleScenario() {
+describe('Example Use Case', function() {
+  it('Example Scenario', function() {
     registrationPage.open()
-        .enterFirstname('Stephen')
-        .enterLastname('Strange')
-        .register();
+        .register('Stephen', 'Strange');
 
     confirmationPage.expectRegistrationSuccessful();
   });

@@ -1,8 +1,8 @@
 ## A not so simple test
 
 ```js
-describe('Example Use Case', function exampleUseCase() {
-  it('Example Scenario', function exampleScenario() {
+describe('Example Use Case', function() {
+  it('Example Scenario', function() {
     browser.get('/index.html');
     var firstname = by.id('#firstname');
     element(firstname).sendKeys('Stephen');
