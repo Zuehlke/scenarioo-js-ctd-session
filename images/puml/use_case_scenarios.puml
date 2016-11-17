@@ -1,0 +1,9 @@
+{% plantuml %}
+
+skinparam componentStyle uml2
+
+package "Subject" {
+  [Use Case] --> "*" [Scenario]
+}
+
+{% endplantuml %}
