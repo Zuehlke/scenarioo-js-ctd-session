@@ -1,9 +1,7 @@
 ## Page objects...
 
-- ...abstract browser interaction with domain language
-- Hide the UI structure and details!
-- Interface is driven by tested functionality!
-
+- ...provide an interface driven by tested functionality
+- ...hide the complexity of UI interactions
 - ...enable reusable logic for reoccurring components
 - ...make nicer code :-)
 
