@@ -18,4 +18,4 @@ Features already available on Release Candidate
 note:
 dola
 
-if time, quickly show example of diff Viewer and Search
+quickly show example of diff Viewer and Search
