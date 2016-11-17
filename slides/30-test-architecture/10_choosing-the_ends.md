@@ -2,10 +2,10 @@
 
 <div class="horizontal-2">
 <div>
-    Rule of Thumb ...
+    Choose Ends wisely ...
     <ul>
-        <li>What have the developers in your team under their control?</li>
-        <li>If the test is broken, the developer must be able to fix it!</li>                
+        <li><p>What have the developers in your team under their control?</p></li>
+        <li><p>If the test is broken, the developer must be able to fix it!</p></li>                
     </ul>
 </div>
 <div>
