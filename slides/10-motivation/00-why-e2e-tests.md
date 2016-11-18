@@ -8,3 +8,6 @@ My Architect told me to only do Unit Tests!
 
 note:
 dola
+
+rolf has done so many projects that he knows how 
+developers think...
