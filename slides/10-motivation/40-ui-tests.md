@@ -21,3 +21,5 @@
 
 note:
 dola
+
+Typical Use Case

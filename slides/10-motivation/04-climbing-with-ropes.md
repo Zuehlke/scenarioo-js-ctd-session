@@ -10,3 +10,5 @@ dola
 safety in entire project. Secures the whole team
 
 tell stoy about climbing together in the mountains (you never know about "crevasse" = "Gletscherspalte")
+
+Established: We should write tests. This brings us to the next question...
