@@ -9,7 +9,7 @@ $class:darkBox$
 
 ScenariooJS 3.0 Release on 1st December
  - Diff Viewer
- - Search
+ - Full Text Search
 
 Features already available on Release Candidate
 
