@@ -4,7 +4,7 @@ $background-size:cover$
 $background-repeat:no-repeat$
 $class:darkBox$
 
-## Writing UI tests
+## Writing E2E tests
 
 - Protractor and Jasmine 2
 - Write Maintainable Tests
