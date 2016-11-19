@@ -11,8 +11,10 @@ $class:darkBox$
 - Where would you like to know more?
 - Is this useful in your project?
 
-
 [www.scenarioo.org](http://scenarioo.org)
+
+Feedback: 
+https://github.com/scenarioo/scenarioo/issues/new?labels=feedback
 
 note:
 dola

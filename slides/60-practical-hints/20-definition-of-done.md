@@ -1,6 +1,10 @@
 ## Definition of Done?
 
-* Feature is covered by tests
+```md
+ # Definition of Done
+
+ * Feature is covered by tests
+```
 
 Any better ideas?  
          

@@ -7,8 +7,10 @@ $class:darkBox$
 ## Tests for Developers
 
    * Developer can verify his changes
-   * Developer can adjust tests to his changes
    * Developer gets feedback if tests broken
+   * Developer can adjust tests to his changes
+   * Developer keeps tests green when refactoring
+       * Red tests = broken window syndrome
    * Tests are best written by Developers
 
 note:

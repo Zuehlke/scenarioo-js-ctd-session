@@ -19,7 +19,7 @@ var RegistrationPage = {
 }
 ```
 
-Define steps inside of page objects
+**Define steps inside of page objects!**
 
 note:
 michael

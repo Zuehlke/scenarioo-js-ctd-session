@@ -6,10 +6,12 @@ $class:darkBox$
 
 ## Who Should Write Tests?
 
-* Only Special E2E Tester / Testing Team ?
+* ONLY Special E2E Tester / Testing Team ?
 
     * NO! 
     * Take care of unnecessary Silos!
+    * Silos are for Farmers not for Software Engineers
+      https://creativeheldstab.com/silos-are-for-farmers/
 
 * **Tests are a Tool for the Developers!**
 

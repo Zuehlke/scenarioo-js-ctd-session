@@ -18,4 +18,7 @@ element.isPresent().then(function(present) {
     }
 }
 ```
+
+Methods on _element_ return a _Promise_!
+
 <div>
