@@ -30,7 +30,7 @@ Get to know more in advance under http://scenarioo.org
 ## How to watch this presentation
 
 ```
-git pull
+git pull https://github.com/Zuehlke/scenarioo-js-ctd-session.git
 npm install
 npm run serve
 ```
