@@ -1,6 +1,6 @@
 # ZE CTD Session: Effective UI Testing with ScenariooJS and Protractor
 
-Material and Outcomes of the Client Tech Day Session 2016 in Zurich (Schlieren).
+Material of the Client Tech Day Session 2016 in Zurich (Schlieren).
 
 We make this currently as a private repo but might think about migrating it later to an open repo.
 
@@ -8,23 +8,33 @@ Date of Session: 18.11.2016 13:30-15:00
 
 Authors: Dominic Langenegger (@dola), Michael Werner (@mi-we) and Rolf Bruderer (@bruderol)
 
-Major Goal & Content: Using Scenarioo JS, Protractor and Jasmine 2 to efficiently test and document web applications from a user interface perspective and how to structure and design those tests.
+Major Goal & Content: 
+* Using Scenarioo JS, Protractor and Jasmine 2 to efficiently test and document web applications
+* Best Practicces from real projects how to do this right and effective
+* How to structure and design those tests for Maintainability
+* Coding Examples
 
 ## Session Abstract (as currently announced in the CTD program)
 
 ScenariooJS, Protractor and Jasmine 2 are a perfect team to get your web applications tested and simultaneously documented from a user interface perspective. The session will focus on test design, since this is the most 
-important part of successful and effective UI/E2E-Testing, and is as well useful for you if you are using any other UI Testing technologies (like pure Selenium). We will discuss examples from the Swisscom Cloud Portal poject and how Rolf structured these tests to get a well-organized test suite and system documentation from a user's point of view. Furthermore we will also present some useful 
-protractor tips and tricks and best practices for writing stable and maintainable UI/E2E-Tests 
-more efficiently. The session will be practically oriented with real examples from real projects 
-and will also demonstrate some of the newest features of the Zühlke Open Source RUA Scenarioo. 
+important part of successful and effective UI/E2E-Testing, and is as well useful for you if you are using any other UI Testing technologies (like pure Selenium).
+
+We will discuss examples from the Swisscom Cloud Portal poject and how Rolf structured these tests to get a well-organized test suite and system documentation from a user's point of view. 
+
+Furthermore we will also present some useful protractor tips and tricks and best practices for writing stable and maintainable UI/E2E-Tests more efficiently and how to prevent falling into pitfalls.
+
+The session will be practically oriented with real examples from real projects and will also demonstrate some of the newest features of the Zühlke Open Source RUA Scenarioo. 
+
 Get to know more in advance under http://scenarioo.org
 
 ## Plan / Topics / Timeline
 
- - Introduction (1', dola)
-     - Who we are
-     - focus group Scenarioo
- - Problem Statement (5', dola)
+ - Introduction (2', all)
+     - Welcome
+     - Goals
+     - Who we Are
+     - Focus Group Scenarioo
+ - Motivation and Problem Statement (5', dola, rolf, michael)
    - (Stakeholders, Questions, What we have: Unit Tests, Integration Tests, UI Tests => Use UI Tests to satistfy needs)
    - Schraubzwinge: Test der alles zusammenhält, Klettern Methapher
    - What is UI/E2E Testing? What is the other end?
