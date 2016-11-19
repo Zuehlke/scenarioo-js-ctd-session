@@ -14,7 +14,7 @@ Major Goal & Content:
 * How to structure and design those tests for Maintainability
 * Coding Examples
 
-## Session Abstract (as currently announced in the CTD program)
+## Session Abstract from CTD Program
 
 ScenariooJS, Protractor and Jasmine 2 are a perfect team to get your web applications tested and simultaneously documented from a user interface perspective. The session will focus on test design, since this is the most 
 important part of successful and effective UI/E2E-Testing, and is as well useful for you if you are using any other UI Testing technologies (like pure Selenium).
@@ -26,6 +26,14 @@ Furthermore we will also present some useful protractor tips and tricks and best
 The session will be practically oriented with real examples from real projects and will also demonstrate some of the newest features of the Zühlke Open Source RUA Scenarioo. 
 
 Get to know more in advance under http://scenarioo.org
+
+## How to watch this presentation
+
+```
+git pull
+npm install
+npm run serve
+```
 
 ## Plan / Topics / Timeline
 
@@ -79,7 +87,6 @@ If enough time:
     * only if you can not avoid!
     * Mention some Arguments for not using it (even if your app has to support IE)
 
-
 ## Presentation Tooling
 
 For important commands see scripts in `package.json`.
@@ -92,9 +99,9 @@ See https://github.com/byteclubfr/prez
 
 ### Pictures in Presentations
 
-In general we prefer to use pictures under Creative Commons Zero Licence.
+Either done by us or we tried to use pictures under Creative Commons Zero Licence.
 
-Sources: see according README files in images folders.
+Sources: See according README files in images folders.
 
 Some interesting sources for pictures:
 
