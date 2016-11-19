@@ -5,9 +5,10 @@ $background-repeat:no-repeat$
 $class:darkBox$
 
 
-## Some Practical Hints
+## Practical Hints
 
-* Important Practical Hints
+* Keeping Tests Pass
+* Definition of Done
 * Beware From Pitfalls
 * More Topics if Time
 

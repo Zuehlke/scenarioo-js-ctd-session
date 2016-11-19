@@ -4,6 +4,6 @@
    * At least one of them is installed globally
    * Rolf's recommendations:
      * Install Protractor and Webdriver also globally
-     * let every developer control when to update
-     * causes less dependency problems for devs
+     * Let developer control when to update
+     * Causes less dependency problems for developers
    * Other Option: use a versioned docker image to run tests

@@ -9,7 +9,7 @@ $class:darkBox$
 * ONLY Special E2E Tester / Testing Team ?
 
     * NO! 
-    * Take care of unnecessary Silos!
+    * Beware of unnecessary Silos!
     * Silos are for Farmers not for Software Engineers
       https://creativeheldstab.com/silos-are-for-farmers/
 

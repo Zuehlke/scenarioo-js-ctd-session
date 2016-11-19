@@ -4,7 +4,7 @@
    
 ```js
 if (element.isPresent()) {
-  element.click()
+  element.click();
 }   
 ```
 
@@ -16,7 +16,7 @@ element.isPresent().then(function(present) {
     if (present) {
         element.click();
     }
-}
+};
 ```
 
 Methods on _element_ return a _Promise_!
