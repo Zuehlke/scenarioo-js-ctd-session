@@ -1,7 +1,7 @@
 {
   "name": "scenarioo-js-ctd-session",
   "version": "0.1.0",
-  "description": "Presentation about Scenarioo JS",
+  "description": "Effective E2E Tests with Scenarioo JS",
   "dependencies": {},
   "devDependencies": {
     "prez": "^4.7.0"
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/Zuehlke/scenarioo-js-ctd-session.git"
   },
-  "author": "Michael Werner, Dominic Langenegger, Rolf Bruderer",
+  "author": "Rolf Bruderer, Michael Werner, Dominic Langenegger",
   "bugs": {
     "url": "https://github.com/Zuehlke/scenarioo-js-ctd-session/issues"
   },
