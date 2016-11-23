@@ -5,9 +5,10 @@ $class:darkBox$
 
 ## Scenarioo
 
+* Continuous Documentation
 * Tests as Living Documentation
-* Tests visible for everybody invollved!
+* Visible for everybody involved!
 * Reviewing Tests
 * Analysing Tests
-* Gather information from tests
+* Gather Information from Tests
 * How this works

@@ -22,4 +22,4 @@
 note:
 dola
 
-Typical Use Case
+Typical Scenario through a Use Case

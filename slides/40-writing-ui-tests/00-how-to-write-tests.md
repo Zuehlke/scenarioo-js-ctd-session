@@ -7,7 +7,7 @@ $class:darkBox$
 ## Writing E2E tests
 
 - Protractor and Jasmine 2
-- Write Maintainable Tests
+- Write Maintainable and Stable Tests
 - Go well together with ScenariooJS (later!)
 
 note:
