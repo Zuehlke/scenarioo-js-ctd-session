@@ -8,4 +8,4 @@ Jump through User Scenarios like a Kangaroo ...<br>[demo.scenarioo.org](http://d
 note:
 dola
 
-plus demo by Rolf from Swisscom project
+plus demo in Rolfs project code

@@ -5,7 +5,7 @@ $background-size:cover$
 
 ## Effective UI/E2E Testing
 
-### <span class="noUppercase">with ScenariooJS</span>
+### <span class="noUppercase">with ScenariooJS and Protractor</span>
 
 <img src="images/scenarioo_bright.png">
 

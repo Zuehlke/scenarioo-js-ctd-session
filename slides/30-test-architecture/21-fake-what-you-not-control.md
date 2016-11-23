@@ -16,4 +16,4 @@
 note:
 rolf
 
-michael comment from Swisscom NEO
+michael comment from his project
