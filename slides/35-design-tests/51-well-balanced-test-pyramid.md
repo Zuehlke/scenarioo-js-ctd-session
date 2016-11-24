@@ -12,7 +12,7 @@
         </ul>    
     </div>
     <div>
-      ![](../../images/test-pyramid.png)
+      ![](images/test-pyramid.png)
     </div>
 </div>
 
