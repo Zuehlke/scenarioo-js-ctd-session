@@ -6,6 +6,10 @@ Date of Session: 18.11.2016 13:30-15:00
 
 Authors: Dominic Langenegger (@dola), Michael Werner (@mi-we) and Rolf Bruderer (@bruderol)
 
+## Published Presentation Slides
+
+Published and available under http://www.scenarioo.org/e2e-testing-with-scenarioo-js
+
 ## Major Goals & Content
 
 * Using Scenarioo JS, Protractor and Jasmine 2 to efficiently test and document web applications
