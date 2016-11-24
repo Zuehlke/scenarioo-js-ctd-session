@@ -1,4 +1,4 @@
-# Effective UI Testing with ScenariooJS and Protractor
+# Effective UI/E2E Testing with ScenariooJS and Protractor
 
 Material of the Client Tech Day Conference Session 2016 in Zurich (Schlieren) at Zühlke Engineering.
 
