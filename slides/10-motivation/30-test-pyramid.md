@@ -1,6 +1,6 @@
 ## Test Pyramid
 
-![](../../images/test-pyramid.png)
+![](images/test-pyramid.png)
 
 note:
 dola
