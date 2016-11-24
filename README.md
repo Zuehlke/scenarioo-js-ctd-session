@@ -8,7 +8,7 @@ Authors: Dominic Langenegger (@dola), Michael Werner (@mi-we) and Rolf Bruderer 
 
 ## Published Presentation Slides
 
-Published and available under http://www.scenarioo.org/e2e-testing-with-scenarioo-js
+Slides are published and available under http://www.scenarioo.org/e2e-testing-with-scenarioo-js
 
 ## Major Goals & Content
 
