@@ -30,10 +30,10 @@ Furthermore we will also present some useful protractor tips and tricks and best
 
 Get to know more about Scenarioo at http://www.scenarioo.org
 
-## How to run this presentation
+## How to get and run presentation sources
 
 ```
-git pull https://github.com/Zuehlke/scenarioo-js-ctd-session.git
+git clone https://github.com/Zuehlke/scenarioo-js-ctd-session.git
 npm install
 npm run serve
 ```
